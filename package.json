@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "name": "assetviz-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "assetviz http://survivejs.com/ -o index.html"
+  },
+  "keywords": [
+    "assetviz",
+    "survivejs"
+  ],
+  "author": "Juho Vepsalainen",
+  "license": "MIT",
+  "devDependencies": {
+    "assetviz": "^0.4.0"
+  }
+}
